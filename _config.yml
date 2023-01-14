@@ -13,7 +13,7 @@
 title: Khushboo Patel
 
 # Your name to show in the footer
-author: Khushboo PAtel
+author: Khushboo Patel
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,21 +50,21 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "patelkhushboo4949@gmail.com"
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
-  # github: daattali
-  # twitter: daattali
-  # patreon: DeanAttali
-  # youtube: c/daattali
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: khushboo_49
+  instagram: khushboo_49
 #  spotify: yourname
- telephone: +919372498008
+  telephone: +919372498008
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
